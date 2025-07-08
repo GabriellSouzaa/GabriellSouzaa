@@ -1,7 +1,7 @@
 <h1 align="center">Gabriel Eduardo de Souza</h1>
 
 <p align="center">
-  💻 Desenvolvedor Java & Full Stack | 🎓 Ciência da Computação - 3º ano <br/>
+  💻 Desenvolvedor Java & Full Stack | 🎓 Ciência da Computação - 4º ano <br/>
   🚀 Apaixonado por tecnologia, liderança e soluções escaláveis
 </p>
 
@@ -51,7 +51,7 @@ Atualmente estudo:
 - 🔎 **SOLID & Clean Code**
 - 🌐 **APIs RESTful seguras com JWT e OAuth2**
 - 📈 **Análise de dados com SQL e ferramentas BI**
-- 🤖 **Sistemas especialistas com Java & Drools**
+
 
 ---
 
@@ -61,15 +61,14 @@ Atualmente estudo:
 |--------|-----------|-------------|
 | [auth-backend](https://github.com/GabriellSouzaa/auth-backend) | API segura de autenticação com JWT | Node.js, Prisma, PostgreSQL |
 | [auth-app](https://github.com/GabriellSouzaa/auth-app) | Frontend de login/cadastro moderno | React, React Router, Tailwind CSS |
-| Sistema de Gestão Funerária (TCC) | CRUD completo com análise de dados | PHP, MariaDB, Gráficos, BI |
+
 
 ---
 
 ## 📫 Vamos nos conectar?
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- 💻 [Portfólio](https://seuportfolio.com)
-- ✉️ gabriel@email.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-eduardo-de-souza/)
+- ✉️ gabrielsouzapequi@gmail.com
 
 ---
 
